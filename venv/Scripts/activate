@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\vdi-terminal\PycharmProjects\cw_praca_z_kodem\venv"
+VIRTUAL_ENV="C:\Users\vdi-terminal\Desktop\test-github-workflow\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

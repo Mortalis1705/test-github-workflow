@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\vdi-terminal\PycharmProjects\cw_praca_z_kodem\venv
+set VIRTUAL_ENV=C:\Users\vdi-terminal\Desktop\test-github-workflow\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
